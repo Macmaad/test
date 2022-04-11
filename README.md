@@ -2,4 +2,3 @@
 
 * Test change and more changes
 * More changes
-* More changes
